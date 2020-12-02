@@ -2,7 +2,7 @@
 
 <p align="center">
   <a>
-    <img alt="GoRestaurant" title="GoRestaurant" src=".github/logo.svg" width="200">
+    <img alt="GoRestaurant" title="GoRestaurant" src=".github/logo.svg" width="400">
   </a>
 </p>
 
@@ -15,11 +15,6 @@
 [![Stars](https://img.shields.io/github/stars/guilhermefos/GoRestaurant?color=2ea44f&style=flat-square)](https://github.com/guilhermefos/GoRestaurant/stargazers)
 [![Forks](https://img.shields.io/github/forks/guilhermefos/GoRestaurant?color=%232ea44f&style=flat-square)](https://github.com/guilhermefos/GoRestaurant/network/members)
 [![Contributors](https://img.shields.io/github/contributors/guilhermefos/GoRestaurant?color=2ea44f&style=flat-square)](https://github.com/guilhermefos/GoRestaurant/graphs/contributors)
-
-<p align="center">
-  <img src=".github/screen1.png" alt="Screen1" border="0"  height="300" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src=".github/screen2.png" alt="Screen2" border="0" height="300">
-</p>
 
 # :pushpin: Table of Contents
 
