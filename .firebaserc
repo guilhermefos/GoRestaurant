@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "study-fe281"
+  },
+  "targets": {
+    "study-fe281": {
+      "hosting": {
+        "app-go-restaurant": [
+          "app-go-restaurant"
+        ]
+      }
+    }
+  }
+}
