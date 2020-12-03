@@ -18,6 +18,7 @@
 
 # :pushpin: Table of Contents
 
+- [Live Preview](https://app-go-restaurant.web.app)
 - [Features](#rocket-features)
 - [Installation](#construction_worker-installation)
 - [Getting Started](#runner-getting-started)
