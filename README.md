@@ -49,10 +49,6 @@ SSH URLs provide access to a Git repository via SSH, a secure protocol. If you h
 
 `yarn install`
 
-**Install IOS native dependencies**
-
-`cd ios && pod install`
-
 # :runner: Getting Started
 
 Run the following command in order to start the application in a development environment:
